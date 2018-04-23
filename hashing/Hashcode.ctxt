@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hashcode
+comment1.params=password\ prime
+comment1.target=int\ hashFunction(java.lang.String,\ int)
+comment2.params=hash\ prime
+comment2.target=java.util.ArrayList\ totals(int,\ int)
+comment3.params=possibleTotals
+comment3.target=java.util.ArrayList\ dictionary(java.util.ArrayList)
+comment4.params=possibleTotals\ possiblePasswords
+comment4.target=java.util.ArrayList\ permutations(java.util.ArrayList,\ java.util.ArrayList)
+comment5.params=num
+comment5.target=int\ toPrime(int)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Driver
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ Dehash()
+comment3.params=h\ p
+comment3.target=void\ Dehash(int,\ int)
+comment4.params=possiblePasswords
+comment4.target=void\ printVert(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ forcePrime()
+comment6.params=
+comment6.target=void\ howMany()
+numComments=7
